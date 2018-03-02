@@ -4,6 +4,10 @@ los colores del arco iris son:
 
 rojo
 naranja
+amarillo
+verde
+cian
+azul 
 violeta
 
-estos son mis colores
+estos son mis colores del arco iris
